@@ -3,6 +3,7 @@
     "sass": "^1.76.0"
   },
   "scripts": {
-    "dev": "sass scss/main.scss:build/main.css --watch --no-source-map"
+    "dev:all": "sass scss/main.scss:build/main.css --watch --no-source-map",
+    "dev": "sass scss/_grid2.scss build/grid2.css --watch --no-source-map"
   }
 }
