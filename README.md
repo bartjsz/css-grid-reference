@@ -1,6 +1,12 @@
-<!-- Traversy Media -->
+<!-- Project 1 Traversy Media -->
 <!-- https://www.youtube.com/watch?v=0xMQfnTU6oo
 https://github.com/bradtraversy/grid-crash -->
+
+<!-- Project 2 Kevin Pavel -->
+<!-- 
+https://www.youtube.com/watch?v=rg7Fvvl3taU
+https://www.youtube.com/watch?v=JHregeIsjPQ
+ -->
 
 https://github.com/sass/dart-sass
 https://www.npmjs.com/package/sass
