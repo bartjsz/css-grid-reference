@@ -30,3 +30,9 @@ the output style sheet will have two classes of same name eg container
 from grid1 and from grid2 -->
 
 <!-- TODO 2 output single folder and file for each scss  -->
+
+
+
+/////////
+css preconnect
+https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/rel/preconnect
